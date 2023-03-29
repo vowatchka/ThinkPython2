@@ -1,13 +1,12 @@
-ThinkPython
-===========
+Основы Python. Научитесь думать как программист. Аллен Б. Дауни
+===============================================================
 
-LaTeX source, code examples, and exercise solutions for Think Python, 2nd edition, by Allen Downey.
+Исходный код LaTeX, примеры кода и решения упражнений из книги `Основы Python. Научитесь думать как программист, 2-е издание, Аллен Б. Дауни`.
 
-You can download this book in PDF from [Green Tea Press](http://greenteapress.com/wp/think-python-2e/) or buy it in paper and other formats from [O'Reilly Media](http://shop.oreilly.com/product/0636920045267.do).
+Книгу можно скачать в формате PDF с [Green Tea Press](http://greenteapress.com/wp/think-python-2e/) или приобрести бумажный экземпляр на [O'Reilly Media](http://shop.oreilly.com/product/0636920045267.do).
 
-To build the book from source you will need a LaTeX installion.  I recommend the TeX Live distribution with the following packages:
+Чтобы собрать книгу из исходного кода, требуется установить LaTeX.  Рекомендуется дистрибутив `TeX Live` со следующими пакетами:
 
-* texlive-latex-base
-* texlive-latex-extra
-* texlive-fonts-recommended
-
+* `texlive-latex-base`
+* `texlive-latex-extra`
+* `texlive-fonts-recommended`
